@@ -15,4 +15,3 @@ eksctl delete cluster --name hub-cluster --region us-west-1
 eksctl delete cluster --name spoke-cluster-1 --region us-west-1
 
 eksctl delete cluster --name spoke-cluster-2 --region us-west-1
-
